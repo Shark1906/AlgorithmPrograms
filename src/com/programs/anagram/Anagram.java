@@ -1,4 +1,4 @@
-package com.programs.demo;
+package com.programs.anagram;
 
 import java.util.Arrays;
 import java.util.Scanner;
